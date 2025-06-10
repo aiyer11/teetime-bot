@@ -1,2 +1,2 @@
 # teetime-bot
-A bot to get tee times for gold courses
+A bot to get tee times for golf courses
